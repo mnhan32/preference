@@ -1,0 +1,23 @@
+{
+    "telemetry.enableTelemetry": false,
+    "workbench.colorTheme": "Ambiance [beta]",
+    "editor.fontFamily": "Menlo, Inconsolata, Consolas, 'Courier New', monospace",
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "editor.fontSize": 14,
+    "editor.tokenColorCustomizations": {
+        "textMateRules":[
+            {
+            "name": "Comment",
+            "scope": "comment",
+            "settings": {
+                "foreground":"#7e889e"
+            }
+            }
+        ]
+    },    
+    "files.exclude": {
+        "**/*.pyc":true
+    },
+    "git.enableSmartCommit": true,    
+    "python.linting.pylintPath": "C:/Python27/Scripts/pylint.exe"
+}
